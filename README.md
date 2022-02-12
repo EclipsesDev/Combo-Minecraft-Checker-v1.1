@@ -1,15 +1,22 @@
--- HOW TO USE COMBO MINECRAFT CHECKER --
+### HOW TO USE COMBO MINECRAFT CHECKER
 
-THE FILE PASSWORD IS "Combo88"
+**THE FILE PASSWORD IS "Combo88"**
 
-Download python3 or python
-unzip Combo Minecraft Checker
-Go to windows cmd
-Type "cd Downloads" and then type "cd Combo Minecraft Checker"
-Then type "main.py"
-And thats it, enjoy :b
-!!MISSING PACKAGE ERROR!!
+1. Download python3 or python
+2. unzip Combo Minecraft Checker
+3. Go to windows cmd
+4. Type "cd Downloads" and then type "cd Combo Minecraft Checker"
+5. Then type "main.py"
+6. And thats it, enjoy :b
 
-If there are missing package then type "pip3 / pip install {missing package}"
+### !!MISSING PACKAGE ERROR!!
+
+**If there are missing package then type "pip3 / pip install {missing package}"
 Or type "python -m pip install {missing package}" or "python3 -m pip install {missing package}"
-NOTE: DON'T INCLUDE THE "{}"
+NOTE: DON'T INCLUDE THE "{}"**
+
+### v1.1 Update Logs
+
+**[+] Updated Design
+[+] Fixes minor bugs
+And much more!**
