@@ -12,7 +12,9 @@
 ### !!MISSING PACKAGE ERROR!!
 
 **If there are missing package then type "pip3 / pip install {missing package}"
+
 Or type "python -m pip install {missing package}" or "python3 -m pip install {missing package}"
+
 NOTE: DON'T INCLUDE THE "{}"**
 
 ### v1.1 Update Logs
